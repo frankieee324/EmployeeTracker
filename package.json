@@ -2,7 +2,7 @@
   "name": "package.json",
   "version": "1.0.0",
   "description": "Employee Tracker",
-  "main": "index.js",
+  "main": "server.js",
   "directories": {
     "lib": "lib"
   },
@@ -12,9 +12,8 @@
   "author": "frankieee324",
   "license": "ISC",
   "dependencies": {
-    "console.table": "^0.10.0",
+    "dotenv": "^16.4.5",
     "inquirer": "^9.2.15",
-    "mysql": "^2.18.1",
-    "node.js": "^0.0.1-security"
+    "mysql": "^2.18.1"
   }
 }
