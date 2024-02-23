@@ -1,8 +1,8 @@
 # EmployeeTracker
 
 ## Description
-Create roll and departments
-Add, edit, and remove employees
+* Create roll and departments.
+* Add, edit, and remove employees.
 
 
 ## Table of Contents (Optional)
@@ -22,8 +22,14 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 Open up integrated terminal in VS Code. 
 install node.js
-run the command node install
-run the command node index.js
+run the command
+``` 
+node install
+```
+run the command
+```
+ node index.js
+ ```
 press eneter to confirm
 
 ## Usage
