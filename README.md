@@ -28,7 +28,7 @@ node install
 ```
 run the command
 ```
- node index.js
+ node server.js
  ```
 press eneter to confirm
 
